@@ -41,10 +41,6 @@ You can easily customize the content, colors, and styles by modifying the HTML a
 
 Contributions are welcome! If you'd like to improve the template or add new features, please fork the repository and create a pull request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Contact
 
 Ashvin Upadhyay - ashvinupadhyay1132@gmail.com
